@@ -1167,6 +1167,10 @@ footer {
     display: none;
 }
 
+.menu-opener {
+    display: none;
+}
+
 @media (min-width:450px) and (max-width:800px) {
     
     .menu-opener {
