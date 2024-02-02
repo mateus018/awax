@@ -1559,6 +1559,18 @@ footer {
         margin-bottom: 20px;
     }
 
+    .premium--right{
+        margin-left: 50px;
+    }
+
+    .icons {
+        justify-content: center;
+
+    }
+    .content-rest{
+        margin-left: 5px;
+    }
+
 
 
     
