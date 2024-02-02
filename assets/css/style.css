@@ -898,6 +898,10 @@ header{
     margin: 5px;
 }
 
+.icons{
+    display: flex;
+}
+
 .content-rest .message{
 
     color: #999;
@@ -1489,6 +1493,13 @@ footer {
 
     .section-fact {
         min-width: 50%;
+    }
+    .bar{
+        flex-direction: column;
+    }
+    .content{
+        justify-content: center;
+        margin-bottom: 5px;
     }
     .section-contact .one{
         margin-left: 50px;
